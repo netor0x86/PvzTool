@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/PvzTool/Debug
+/PvzTool/PvzTool/Debug
+/PvzTool/ipch
+/PvzTool/Release
+/PvzTool/PvzTool/Release
+
